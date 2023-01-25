@@ -10,23 +10,11 @@
   line-height:normal;
   text-transform:none;
 }
-._形状 {
-}
 .box_1 {
-}
-.box_2 {
 }
 .box_3 {
 }
-.image {
-}
-.button {
-}
-.primary_button {
-  color:#FFFFFF;
-}
-.link_button {
-  color:#169BD5;
+._图片_ {
 }
 ._一级标题 {
   font-family:'ArialMT', 'Arial', sans-serif;
@@ -69,51 +57,14 @@
   font-size:10px;
   text-align:left;
 }
-.label {
-  font-size:14px;
-  text-align:left;
-}
 ._文本段落 {
   text-align:left;
+}
+.line {
 }
 ._表单提示 {
   color:#999999;
 }
 ._表单禁用 {
-}
-.line {
-}
-.text_field {
-  color:#000000;
-  text-align:left;
-}
-.droplist {
-  color:#000000;
-  text-align:left;
-}
-.list_box {
-  color:#000000;
-  text-align:left;
-}
-._流程形状 {
-}
-.table_cell {
-}
-._线段 {
-}
-._连接 {
-}
-.marker {
-  color:#FFFFFF;
-}
-.icon {
-}
-.ellipse {
-}
-.shape {
-}
-.line1 {
-}
-.flow_shape {
 }
 textarea, select, input, button { outline: none; }
