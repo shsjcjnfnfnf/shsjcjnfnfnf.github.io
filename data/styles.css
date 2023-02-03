@@ -16,6 +16,11 @@
 }
 ._图片_ {
 }
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
 ._一级标题 {
   font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
