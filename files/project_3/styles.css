@@ -419,8 +419,8 @@
 #u69 {
   border-width:0px;
   position:absolute;
-  left:647px;
-  top:292px;
+  left:700px;
+  top:353px;
   width:140px;
   height:40px;
   display:flex;
@@ -439,4 +439,34 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+}
+#u70_img {
+  border-width:0px;
+  position:absolute;
+  left:-10px;
+  top:-10px;
+  width:648px;
+  height:582px;
+}
+#u70 {
+  border-width:0px;
+  position:absolute;
+  left:34px;
+  top:125px;
+  width:628px;
+  height:562px;
+  display:flex;
+}
+#u70 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u70_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
 }
